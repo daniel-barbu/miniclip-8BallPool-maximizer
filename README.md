@@ -13,8 +13,7 @@ This is a Javascipt program that allows zooming in on Miniclip's 8 Ball Pool bro
 |                                   |          |
 |:----------------------------------|:---------|
 | +, - (Numpad)                     | zoom     |
-| 0 (Numpad)                        | ??????   | 
-
+| 0 (Numpad)                        | ??????   |
 
 *important: if the controls stop working click above or below the game `<canvas>`*
 
