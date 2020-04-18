@@ -1,5 +1,5 @@
 # miniclip-8BallPool-maximizer<sub>(chrome+firefox)</sub>
-This is a Javascipt program that allows zooming in on Miniclip's 8 Ball Pool browser game.
+miniclip-8BallPool-maximizer is a Javascipt program that allows zooming in on Miniclip's 8 Ball Pool browser game.
 
 ### How to use
 1. The program is made for the ['focus' webpage](https://www.miniclip.com/games/8-ball-pool-multiplayer/en/focus/) of the game, so make sure to be on that webpage.
